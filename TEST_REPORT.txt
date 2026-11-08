@@ -1,0 +1,14 @@
+TARS × SHASHTY PRO — FUSION PORTAL V2
+
+Validated:
+- PHP source files: syntax check (php -l) passed for all 11 PHP files.
+- JavaScript: node --check passed.
+- Desktop static preview: Chromium 1440px viewport, no horizontal overflow.
+- Mobile static preview: Chromium 390px viewport, no horizontal overflow.
+- Both versions rendered as static visual previews.
+- Existing MySQL schema, upload API, streaming endpoints and admin actions preserved.
+
+Not tested in this environment:
+- Real MariaDB connection and authenticated end-to-end admin/upload tests.
+- Deployment to any live domain or Netlify account.
+- Actual network throughput: dashboard charts in the hero are illustrative only.

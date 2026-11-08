@@ -1,0 +1,6 @@
+.env
+/storage/private/*
+!/storage/private/.gitkeep
+*.log
+.idea/
+.vscode/
